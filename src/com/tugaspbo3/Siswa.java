@@ -1,6 +1,6 @@
 package com.tugaspbo3;
 
-public interface Siswa {
+interface Siswa {
 
 
     void mapel1();
