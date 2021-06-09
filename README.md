@@ -2,7 +2,7 @@
 
 Contoh Progam tugas interface java menghitung nilai rata - rata siswa
 
-Berikut adalah gambar contoh hasil dari progam terserbut
+Berikut adalah gambar contoh hasil dari progam tersebut
 
 ![Screenshot (1816)](https://user-images.githubusercontent.com/54269175/121272790-04e93d00-c8f1-11eb-8367-fd634195bb32.png)
 
